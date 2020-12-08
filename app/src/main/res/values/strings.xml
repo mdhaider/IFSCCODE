@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IFSC CODE</string>
+
+    <string name="ifsc_hint">Enter 11-digit IFSC Code</string>
+</resources>
